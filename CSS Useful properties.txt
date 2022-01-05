@@ -1,0 +1,5 @@
+Background-repaet
+background-position
+display
+position
+border-radius
